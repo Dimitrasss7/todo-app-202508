@@ -1,0 +1,1 @@
+# Todo App  Modern Todo List application built with React, TypeScript, and Vite.  ## Features - Add, edit, delete tasks - Mark tasks as completed - Filter tasks (all/active/completed) - Clear completed tasks - LocalStorage persistence - Responsive design - Smooth animations  ## Setup ```bash npm install npm run dev ```  ## Build ```bash npm run build ```
